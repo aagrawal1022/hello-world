@@ -18,6 +18,7 @@
   <div class="well well-lg">Large Well 2</div>
   <div class="well">Building docker conatiner automatically</div>
   <div class="well well-lg">Ansible configured</div>
+  <div class="well">ansible intergated wit jenkins for automation</div>
 
 </div>
 
