@@ -16,6 +16,7 @@
   <div class="well">Normal Well</div>
   <div class="well well-lg">Large Well</div>
   <div class="well well-lg">Large Well 2</div>
+  <div class="well">Building docker conatiner automatically</div>
 </div>
 
 </body>
