@@ -15,6 +15,7 @@
   <div class="well well-sm">Small Well</div>
   <div class="well">Normal Well</div>
   <div class="well well-lg">Large Well</div>
+  <div class="well well-lg">Large Well 2</div>
 </div>
 
 </body>
